@@ -1,0 +1,18 @@
+{
+    "name": "case03",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "a1": "node index.js a=1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "D": "^1.0.0",
+        "query": "^0.2.0",
+        "uniq": "^1.0.1"
+    }
+}
